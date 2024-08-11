@@ -1,5 +1,5 @@
 ![logo](https://github.com/SyedAdnanSaleem/syedadnansaleem/blob/main/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
-<h1 align="center">Hi 👋, I'm SyedAdnanSaleem</h1>
+<h1 align="center">Hi 👋, I'm Syed Adnan Saleem</h1>
 <h3 align="center">web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedadnansaleem&label=Profile%20views&color=0e75b6&style=flat" alt="syedadnansaleem" /> </p>

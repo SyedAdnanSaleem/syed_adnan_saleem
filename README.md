@@ -1,7 +1,9 @@
 ![logo](https://github.com/SyedAdnanSaleem/syedadnansaleem/blob/main/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi 👋, I'm  Syed Adnan Saleem</h1>
+<img 
+ src="https://media.licdn.com/dms/image/v2/D5616AQErO-9sbdGKCw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731925308861?e=1737590400&v=beta&t=haYgtTKFE9xcg016-I3hwj6ThYxLlDhYWOKUtO-VF2o"
+ />
 <h3 align="center">web developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedadnansaleem&label=Profile%20views&color=0e75b6&style=flat" alt="syedadnansaleem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedadnansaleem" alt="syedadnansaleem" /></a> </p>
